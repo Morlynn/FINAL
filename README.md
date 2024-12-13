@@ -14,6 +14,6 @@ For a demo video of the game project, please click the link below to watch:
 
 ## UE5 Project Files
 
-此处可以下载 Unreal Engine 5 的完整工程文件：
+The complete project files for Unreal Engine 5 can be downloaded here:
 [UE5 Project Files](#) <!-- https://1drv.ms/f/s!ArNWr0FgpQrTdbepJ9jWhh1XEDs -->
 

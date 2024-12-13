@@ -5,15 +5,15 @@
 ## Weblog
 
 The weekly diary recorded during the development process can be viewed by clicking the following link:
-[weblog](#) <!-- https://walnut-dinner-769.notion.site/M-bius-Development-Weekly-15b003a88bc9804680b1cb93c82f66fc?pvs=4 -->
+[weblog](https://walnut-dinner-769.notion.site/M-bius-Development-Weekly-15b003a88bc9804680b1cb93c82f66fc?pvs=4)
 
 ## Demo Video
 
 For a demo video of the game project, please click the link below to watch:
-[video](#) <!-- https://vimeo.com/1036733370?share=copy -->
+[video](https://vimeo.com/1036733370?share=copy)
 
 ## UE5 Project Files
 
 The complete project files for Unreal Engine 5 can be downloaded here:
-[UE5 Project Files](#) <!-- https://1drv.ms/f/s!ArNWr0FgpQrTdbepJ9jWhh1XEDs -->
+[UE5 Project Files](https://1drv.ms/f/s!ArNWr0FgpQrTdbepJ9jWhh1XEDs)
 
